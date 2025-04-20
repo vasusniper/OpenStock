@@ -25,7 +25,7 @@ function Stats() {
                     </div>
                 </div>
                 <div className="col-6">
-                    <img style={{width: "90%" }} className='awards_main_img' src="../public/images/ecosystem.png" alt="broker img" />
+                    <img style={{width: "90%" }} className='awards_main_img' src="/images/ecosystem.png" alt="broker img" />
                     <div className="row">
                         <div className="col mt-2">
                             <a style={{textDecoration:"none"}} href="#">Explore our products <i class="fa-solid fa-arrow-right"></i></a>

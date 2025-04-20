@@ -29,14 +29,14 @@ function LeftSection({ img_Url, para, title, link_1, link_2 }) {
           <div className="mt-3">
             <a href="">
               <img
-                src="../public/images/googlePlayBadge.svg"
+                src="/images/googlePlayBadge.svg"
                 alt=""
                 style={{ width: "20%" }}
               />
             </a>
             <a href="">
               <img
-                src="../public/images/appstoreBadge.svg"
+                src="/images/appstoreBadge.svg"
                 alt=""
                 style={{ width: "20%", marginLeft: "1rem" }}
               />

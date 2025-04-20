@@ -4,7 +4,7 @@ function Footer() {
     <div className="container border-top">
       <div className="row footer mt-5">
         <div className="col">
-        <img src="./public/images/openStock.svg" alt="" style={{ width: "10%" }} /> <b>OpenStock</b>
+        <img src="/images/openStock.svg" alt="" style={{ width: "10%" }} /> <b>OpenStock</b>
           <p style={{ fontSize: "10px", marginTop: "1rem" }}>
             &copy; 2010 - 2025, OpenStock Broking Ltd. <br />
             All rights reserved.

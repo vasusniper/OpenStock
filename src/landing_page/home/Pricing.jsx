@@ -26,7 +26,7 @@ function Pricing() {
               <p style={{display:"inline-block",fontSize:"7px"}}> Free equity delivery <br />and direct mutual funds</p>
             </div>
             <div className="col">
-              <img src="../public/images/intradayTrades.svg" alt=""  style={{margin: "0 auto", height:"50%"}}/>
+              <img src="/images/intradayTrades.svg" alt=""  style={{margin: "0 auto", height:"50%"}}/>
               <p style={{ display:"inline-block",fontSize:"7px"}}> Intraday and <br />F&O</p>
             </div>
           </div>

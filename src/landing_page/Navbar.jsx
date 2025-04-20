@@ -5,7 +5,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg bg-body-tertiary border-bottom sticky-top">
       <div className="container">
         <Link to="/">
-          <img src="./public/images/openStock.svg" alt="" style={{ width: "15%" }} /> <b>OpenStock</b>
+          <img src="/images/openStock.svg" alt="" style={{ width: "15%" }} /> <b>OpenStock</b>
         </Link>
         <button
           className="navbar-toggler"

@@ -8,7 +8,7 @@ function Team() {
       <div className="row">
         <div className="col text-center">
           <img
-            src="../public/images/Vasu-Sniper.png"
+            src="/images/Vasu-Sniper.png"
             alt=""
             className="Vasu-Sniper"
           />

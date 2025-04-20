@@ -13,7 +13,7 @@ function Universe() {
         <div className="row">
           <div className="col mt-5">
             <img
-              src="../public/images/zerodhafundhouse.png"
+              src="/images/zerodhafundhouse.png"
               alt=""
               style={{ height: "55px" }}
             />
@@ -24,7 +24,7 @@ function Universe() {
           </div>
           <div className="col mt-5">
             <img
-              src="../public/images/sensibull-logo.svg"
+              src="/images/sensibull-logo.svg"
               alt=""
               style={{ height: "40px" }}
             />
@@ -36,7 +36,7 @@ function Universe() {
           </div>
           <div className="col mt-5">
             <img
-              src="../public/images/tijori.svg"
+              src="/images/tijori.svg"
               alt=""
               style={{ height: "55px" }}
             />
@@ -49,7 +49,7 @@ function Universe() {
         <div className="row">
           <div className="col mt-5">
             <img
-              src="../public/images/streak-logo.png"
+              src="/images/streak-logo.png"
               alt=""
               style={{ height: "55px" }}
             />
@@ -60,7 +60,7 @@ function Universe() {
           </div>
           <div className="col mt-5">
             <img
-              src="../public/images/smallcase-logo.png"
+              src="/images/smallcase-logo.png"
               alt=""
               style={{ height: "40px" }}
             />
@@ -71,7 +71,7 @@ function Universe() {
           </div>
           <div className="col mt-5">
             <img
-              src="../public/images/dittoLogo.png"
+              src="/images/dittoLogo.png"
               alt=""
               style={{ height: "55px" }}
             />
