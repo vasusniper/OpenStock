@@ -1,0 +1,14 @@
+.create-ticket a{
+    color:#222;
+    cursor: pointer;
+}
+.create-ticket li{
+    color:#387ed1;
+    cursor: pointer;
+}
+.create-ticket a:hover{
+    color:#387ed1;
+}
+.create-ticket li:hover{
+    color:#7a7979;
+}
